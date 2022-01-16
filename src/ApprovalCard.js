@@ -1,7 +1,7 @@
 import React from "react";
 
 const ApprovalCard = (props) => {
-  //   console.log(props);
+  // console.log(props.children.props.comment);
   return (
     <>
       <div className="ui card">
